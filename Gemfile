@@ -32,6 +32,7 @@ gem 'bootstrap', '>= 5.2.0'
 # gem "redis", "~> 4.0"
 gem 'devise'
 gem "font-awesome-sass", "~> 6.1.2"
+gem 'activestorage-validator'
 # Use Kredis to get higher-level data types in Redis [https://github.com/rails/kredis]
 # gem "kredis"
 
